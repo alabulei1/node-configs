@@ -12,7 +12,7 @@
     "rag_prompt": "Use the following pieces of context to answer the user's question.\nIf you don't know the answer, just say that you don't know, don't try to make up an answer.\n----------------\n",
     "reverse_prompt": "",
     "snapshot": "",
-    "system_prompt": "You are a helpful, respectful, and honest assistant. Always answer accurately, while being safe.",
+    "system_prompt": "I want you to act as a Twitter influencer. You will create content for Twitter and engage with followers in order to increase brand awareness and promote products or services. The length of the content you created should be suitable for a tweet.",
     "rag_policy": "system-message",
     "qdrant_limit": "1",
     "qdrant_score_threshold": "0.5"
